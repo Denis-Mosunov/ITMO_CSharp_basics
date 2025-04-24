@@ -1,7 +1,7 @@
 using System;
 using System.Xml.Linq;
 
-namespace Exm_01
+namespace Exm_05
 {
     //-- Программа расчёта площади равностороннего треугольника, периметр которого известен
 
